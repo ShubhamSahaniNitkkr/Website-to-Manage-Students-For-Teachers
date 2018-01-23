@@ -1,0 +1,72 @@
+{
+	"title":"Home",
+	"heading": "Your Classroom",
+	"button_heading":"Create Classroom",
+		"card_content": [
+
+			{
+				"class_name": "Class A",
+				"course_name":"APTITUDE",
+				"students": "12 Students",
+				"pics":[
+					{
+						"url": "../images/user_pic.png"
+					},
+					{
+						"url": "../images/user_pic.png"
+					},
+					{
+						"url": "../images/user_pic.png"
+					}
+				]
+
+      },
+
+			{
+				"class_name": "Class B",
+				"course_name":"NEET",
+				"students": "42 Students",
+				"pics":[
+					{
+						"url": "../images/user_pic.png"
+					},
+					{
+						"url": "../images/user_pic.png"
+					},
+					{
+						"url": "../images/user_pic.png"
+					},
+					{
+						"url": "../images/user_pic.png"
+					},
+					{
+						"url": "../images/user_pic.png"
+					},
+					{
+						"url": "../images/user_pic.png"
+					}
+				]
+
+			},
+
+			{
+				"class_name": "Class C",
+				"course_name":"BANK",
+				"students": "102 Students",
+				"pics":[
+					{
+						"url": "../images/user_pic.png"
+					},
+					{
+						"url": "../images/user_pic.png"
+					},
+					{
+						"url": "../images/user_pic.png"
+					}
+				]
+
+			}
+
+		]
+
+  }

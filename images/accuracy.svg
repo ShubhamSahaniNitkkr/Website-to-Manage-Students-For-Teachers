@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 10</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="23.2960355 14.0283865 24.3185943 14.7779823 24.3185943 33.0283865 22.3185943 33.0283865 22.3185943 14.8150044"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy-7" transform="translate(-907.000000, -332.000000)">
+            <g id="Group-10" transform="translate(907.000000, 332.000000)">
+                <circle id="Oval-4" fill="#9013FE" cx="16" cy="16" r="16"></circle>
+                <circle id="Oval-4-Copy" fill-opacity="0.15" fill="#000000" cx="16" cy="16" r="12"></circle>
+                <circle id="Oval-4-Copy-2" fill="#9013FE" cx="16" cy="16" r="8"></circle>
+                <circle id="Oval-4-Copy-3" fill="#7A10D8" cx="16" cy="16" r="4"></circle>
+                <g id="Rectangle-13" transform="translate(23.318594, 23.528386) rotate(316.000000) translate(-23.318594, -23.528386) ">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <path stroke="#7A10D8" stroke-width="1" d="M23.3102446,14.6587573 L22.8185943,15.054424 L22.8185943,32.5283865 L23.8185943,32.5283865 L23.8185943,15.0314075 L23.3102446,14.6587573 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
